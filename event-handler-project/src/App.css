@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background: linear-gradient(135deg, #1a0033, #002c3e, #003d5b);
+  color: #fff;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-container {
+  background: #2e003e; 
+  border-radius: 20px;
+  padding: 50px 40px;
+  text-align: center;
+  box-shadow: 0 0 35px rgba(0, 255, 191, 0.25);
+  border: 2px solid rgba(0, 255, 191, 0.2);
+  transition: all 0.5s ease;
+}
+
+.app-container:hover {
+  transform: scale(1.04);
+  box-shadow: 0 0 45px rgba(255, 105, 180, 0.3);
+}
+
+.app-container h1 {
+  font-size: 32px;
+  margin-bottom: 25px;
+}
+
+.tofo-form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 25px;
+  background: #3a005f;
+  padding: 15px 18px;
+  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  box-shadow: 0 4px 20px rgba(0, 255, 191, 0.2);
+}
+
+.tofo-form input {
+  flex: 1;
+  background: rgba(255, 255, 255, 0.15);
+  border: none;
+  border-radius: 8px;
+  color: #fff;
+  padding: 12px 14px;
+  font-size: 1rem;
+  outline: none;
+  transition: 0.3s ease;
+}
+
+.tofo-form input::placeholder {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.tofo-form input:focus {
+  background: rgba(0, 255, 191, 0.15);
+  box-shadow: 0 0 10px rgba(0, 255, 191, 0.3);
+}
+
+.tofo-form button {
+  background: linear-gradient(135deg, #00ffc6, #ff5c8a);
+  border: none;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 8px;
+  padding: 12px 20px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.tofo-form button:hover {
+  transform: scale(1.08);
+}
+
+.todo-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.todo-item {
+  background: linear-gradient(135deg, #00ffc6 0%, #ff5c8a 100%);
+  border-radius: 12px;
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.todo-item span {
+  color: #240033;
+}
+
+.todo-item.completed span {
+  text-decoration: line-through;
+  color: #33054b;
+}
+
+.todo-item button {
+  background: transparent;
+  color: rgb(242, 39, 39);
+  border: 2px solid rgb(242, 39, 39);
+  border-radius: 8px;
+  padding: 6px 12px;
+  transition: 0.3s ease;
+}
+
+.todo-item button:hover {
+  background: rgb(237, 56, 56);
+  color: #fff;
+  transform: scale(1.1);
+}
+
+.empty {
+  color: #ffb3d1;
+  font-size: 20px;
+}
