@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Men Casual T-Shirt",
+      "category": "men",
+      "price": 599,
+      "image": "https://images.unsplash.com/photo-1520975916090-3105956dac38"
+    },
+    {
+      "id": 2,
+      "title": "Men Blue Denim Jeans",
+      "category": "men",
+      "price": 1299,
+      "image": "https://images.unsplash.com/photo-1542272604-787c3835535d"
+    },
+    {
+      "id": 3,
+      "title": "Men Winter Jacket",
+      "category": "men",
+      "price": 2499,
+      "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf"
+    },
+    {
+      "id": 4,
+      "title": "Men Formal Shirt",
+      "category": "men",
+      "price": 899,
+      "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633"
+    },
+    {
+      "id": 5,
+      "title": "Men Cotton Shorts",
+      "category": "men",
+      "price": 499,
+      "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b"
+    },
+    {
+      "id": 6,
+      "title": "Women Party Dress",
+      "category": "women",
+      "price": 1599,
+      "image": "https://images.unsplash.com/photo-1520975682031-a4c88fbe3b1c"
+    },
+    {
+      "id": 7,
+      "title": "Women Casual Top",
+      "category": "women",
+      "price": 699,
+      "image": "https://images.unsplash.com/photo-1581044777550-4cfa60707c03"
+    },
+    {
+      "id": 8,
+      "title": "Women Skinny Jeans",
+      "category": "women",
+      "price": 1399,
+      "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246"
+    },
+    {
+      "id": 9,
+      "title": "Women Ethnic Kurti",
+      "category": "women",
+      "price": 999,
+      "image": "https://images.unsplash.com/photo-1618354691438-25bc04584c23"
+    },
+    {
+      "id": 10,
+      "title": "Women Winter Jacket",
+      "category": "women",
+      "price": 2299,
+      "image": "https://images.unsplash.com/photo-1514996937319-344454492b37"
+    },
+    {
+      "id": 11,
+      "title": "Kids Printed T-Shirt",
+      "category": "kids",
+      "price": 399,
+      "image": "https://images.unsplash.com/photo-1602810316800-0f6b4b5cfae4"
+    },
+    {
+      "id": 12,
+      "title": "Kids Denim Jeans",
+      "category": "kids",
+      "price": 799,
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348"
+    },
+    {
+      "id": 13,
+      "title": "Kids Party Dress",
+      "category": "kids",
+      "price": 999,
+      "image": "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8"
+    },
+    {
+      "id": 14,
+      "title": "Kids Hooded Jacket",
+      "category": "kids",
+      "price": 1499,
+      "image": "https://images.unsplash.com/photo-1601924638867-3ec62c28b1d3"
+    },
+    {
+      "id": 15,
+      "title": "Kids Summer Shorts",
+      "category": "kids",
+      "price": 499,
+      "image": "https://images.unsplash.com/photo-1595341888016-a392ef81b7de"
+    },
+    {
+      "id": 16,
+      "title": "Men Hoodie Sweatshirt",
+      "category": "men",
+      "price": 1799,
+      "image": "https://images.unsplash.com/photo-1618354691438-6dbf7b65e48f"
+    },
+    {
+      "id": 17,
+      "title": "Women Traditional Saree",
+      "category": "women",
+      "price": 2999,
+      "image": "https://images.unsplash.com/photo-1618354691229-88d47f285158"
+    },
+    {
+      "id": 18,
+      "title": "Kids Wool Sweater",
+      "category": "kids",
+      "price": 899,
+      "image": "https://images.unsplash.com/photo-1618220179428-22790b461013"
+    },
+    {
+      "id": 19,
+      "title": "Men Running Shoes",
+      "category": "men",
+      "price": 2199,
+      "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77"
+    },
+    {
+      "id": 20,
+      "title": "Women Stylish Sandals",
+      "category": "women",
+      "price": 1199,
+      "image": "https://images.unsplash.com/photo-1584735175315-9d5df23860e6"
+    }
+  ]
+}
