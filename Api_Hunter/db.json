@@ -1,0 +1,100 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Cheese Burger",
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349",
+      "calories": 500,
+      "diet": "Non-Veg",
+      "ingredients": "Bun, Cheese, Beef Patty, Lettuce"
+    },
+    {
+      "id": "3",
+      "title": "Pasta Alfredo",
+      "image": "https://images.unsplash.com/photo-1525755662778-989d0524087e",
+      "calories": 520,
+      "diet": "Vegetarian",
+      "ingredients": "Pasta, Cream, Garlic, Cheese"
+    },
+    {
+      "id": "4",
+      "title": "Chicken Salad",
+      "image": "https://www.allrecipes.com/thmb/aPy_MqN4GgyO27vh98ns1pXaIWg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8499-Best-Chicken-Salad-DDMFS-3X4-11915-d36a5b98b1e041b3b48b62ecdfa6029e.jpg",
+      "calories": 300,
+      "diet": "High Protein",
+      "ingredients": "Chicken, Lettuce, Olive Oil"
+    },
+    {
+      "id": "5",
+      "title": "Paneer Tikka",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO2BlzQAlaynpQM-h-XQBvITw70doc6GEUOw&s",
+      "calories": 410,
+      "diet": "Vegetarian",
+      "ingredients": "Paneer, Yogurt, Spices"
+    },
+    {
+      "id": "6",
+      "title": "Avocado Toast",
+      "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141",
+      "calories": 250,
+      "diet": "Vegan",
+      "ingredients": "Bread, Avocado, Olive Oil"
+    },
+    {
+      "id": "7",
+      "title": "Grilled Fish",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      "calories": 360,
+      "diet": "Keto",
+      "ingredients": "Fish, Lemon, Herbs"
+    },
+    {
+      "id": "8",
+      "title": "Fruit Smoothie",
+      "image": "https://images.unsplash.com/photo-1570197571499-166b36435e9f",
+      "calories": 180,
+      "diet": "Healthy",
+      "ingredients": "Banana, Berries, Milk"
+    },
+    {
+      "id": "9",
+      "title": "Chocolate Cake",
+      "image": "https://thefirstyearblog.com/wp-content/uploads/2015/11/chocolate-chocolate-cake-1.png",
+      "calories": 600,
+      "diet": "Dessert",
+      "ingredients": "Flour, Cocoa, Sugar"
+    },
+    {
+      "id": "10",
+      "title": "Caesar Salad",
+      "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1",
+      "calories": 320,
+      "diet": "Low Carb",
+      "ingredients": "Lettuce, Cheese, Dressing"
+    },
+    {
+      "id": "6d81",
+      "title": "pasta",
+      "image": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?semt=ais_hybrid&w=740&q=80",
+      "calories": 299,
+      "diet": "Vegetarian",
+      "ingredients": " veggies, cheese, herbs, and cream"
+    },
+    {
+      "id": "19e9",
+      "title": "Marinara",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP0HbRY0SsECXq3XHqjXUBw3CqK1VfE5PX1w&s",
+      "calories": 399,
+      "diet": "balanced diet",
+      "ingredients": "fresh mozzarella cheese, fresh basil leaves, and a drizzle"
+    },
+    {
+      "id": "bc94",
+      "title": "Sundubu-jjigae",
+      "image": "https://thefoodietakesflight.com/wp-content/uploads/2020/07/vegan-sundubu-jjigae-soft-tofu-stew-korean-3-747x1024.png",
+      "calories": 250,
+      "diet": "vegetarian, vegan, and high-protein/low-carb diets",
+      "ingredients": " sesame oil, and add Indian vegetables like zucchini, mushrooms, spinach etc"
+    }
+  ]
+}
